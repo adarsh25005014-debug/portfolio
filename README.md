@@ -1,2 +1,2 @@
-# Web-development-
-This repository is for web development projects
+# Portfolio
+This repository is designed for my portfolio page, which is my very first project. 
